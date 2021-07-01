@@ -1,0 +1,6 @@
+C:\Users\maabusha\Documents\apis\bin\Debug\net5.0\apis.dll
+C:\Users\maabusha\Documents\apis\bin\Debug\net5.0\apis.pdb
+C:\Users\maabusha\Documents\apis\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\maabusha\Documents\apis\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maabusha\Documents\apis\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maabusha\Documents\apis\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll

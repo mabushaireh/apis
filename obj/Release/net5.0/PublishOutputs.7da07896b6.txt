@@ -1,0 +1,11 @@
+C:\Users\maabusha\Documents\apis\bin\Release\net5.0\publish\apis.exe
+C:\Users\maabusha\Documents\apis\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\maabusha\Documents\apis\bin\Release\net5.0\publish\appsettings.json
+C:\Users\maabusha\Documents\apis\bin\Release\net5.0\publish\apis.dll
+C:\Users\maabusha\Documents\apis\bin\Release\net5.0\publish\apis.deps.json
+C:\Users\maabusha\Documents\apis\bin\Release\net5.0\publish\apis.runtimeconfig.json
+C:\Users\maabusha\Documents\apis\bin\Release\net5.0\publish\apis.pdb
+C:\Users\maabusha\Documents\apis\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\maabusha\Documents\apis\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maabusha\Documents\apis\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maabusha\Documents\apis\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
